@@ -1,0 +1,10 @@
+{
+    "openai_api_key": "sk-0g9l6AtRNbzerp0x6b0709C0E7A84fA696D7211996690e74",
+    "openai_api_base": "https://sapi.ai198.top/v1",
+    "system_prompt": "../03_prompts/general_system_prompt.txt",
+    "gpt_model": "gpt-3.5-turbo",
+    "embedding_model": "text-embedding-3-small",
+  
+    "experiment_dataset": "flickr_NA",
+    "k": 3
+  }
