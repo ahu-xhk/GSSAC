@@ -1,2 +1,2 @@
-# Community search in temporal road-social attributed networks
-This algorithm requires python version 3.8 or above.
+# Community Search in Time-dependent Road-Social Attributed Networks
+This algorithm requires Python version 3.8 or above.
